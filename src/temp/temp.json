@@ -1,0 +1,890 @@
+{
+    "status": "OK",
+    "request_id": "1bc7fcf2-d8e5-4955-8eb8-dacd0e6db428",
+    "parameters": {
+      "query": "full stack developer",
+      "page": 1,
+      "num_pages": 1
+    },
+    "data": [
+      {
+        "job_id": "5cxdEipDxgB0BRiAAAAAAA==",
+        "employer_name": "Artius Solutions",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMEvQEU7LV5GTJPgP9z_Z53DkwkvjqWZi9V3uj&s=0",
+        "employer_website": null,
+        "employer_company_type": null,
+        "job_publisher": "LinkedIn",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Full Stack Developer",
+        "job_apply_link": "https://www.linkedin.com/jobs/view/full-stack-developer%C2%A0-at-artius-solutions-3844966068",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.6374,
+        "apply_options": [
+          {
+            "publisher": "LinkedIn",
+            "apply_link": "https://www.linkedin.com/jobs/view/full-stack-developer%C2%A0-at-artius-solutions-3844966068",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Job Title: Full Stack Developer\n\nLocation: Remote\n\nDuration: 6 to 12 Months Contract\n\nTop Requirements\n• Java\n• Angular\n• Azure AWS Cloud\n\nThe Expertise And Skills You Bring\n• BS in Computer Science or Information Systems.\n• 9+ years in application development or software engineering.\n• You are proficient in traditional full-stack technologies like Linux, Oracle, SQL, XML/XSLT, JavaScript, Java, J2EE, Spring Boot, Python, Apache, Tomcat, JQuery, CSS, Bootstrap, and HTML5.\n• You have exposure to AWS.\n• You have experience using development and team tools such as Jira, Eclipse, GIT, Jenkins, and Udeploy.\n• You are familiar with Institutional and Capital Markets products such as prime brokerage, fixed income, and equities.\n• Within this space, you will have related experience to trade operations and post-trade analysis, profit/loss analysis, customer relationship management, and compliance/supervisory reporting.\n• You have experience working in Scrum Agile and Agile@Scale product development environments.\n• You will be collaborating with business product owners, end users, and other technology teams.\n• Most significantly, you will be forward-thinking and able to adapt to new technologies and trends.\n• Listening to product owners to understand the business value they want to deliver.\n• Analyzing and crafting the technology solutions.\n• Collaborating with technology teams to implement, test, and demonstrate those solutions.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1709445028,
+        "job_posted_at_datetime_utc": "2024-03-03T05:50:28.000Z",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "US",
+        "job_latitude": 37.09024,
+        "job_longitude": -95.71289,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer&htidocid=5cxdEipDxgB0BRiAAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-04-02T05:48:56.000Z",
+        "job_offer_expiration_timestamp": 1712036936,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": true,
+          "degree_mentioned": true,
+          "degree_preferred": true,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+          "Qualifications": [
+            "Angular",
+            "Azure AWS Cloud",
+            "BS in Computer Science or Information Systems",
+            "9+ years in application development or software engineering",
+            "You are proficient in traditional full-stack technologies like Linux, Oracle, SQL, XML/XSLT, JavaScript, Java, J2EE, Spring Boot, Python, Apache, Tomcat, JQuery, CSS, Bootstrap, and HTML5",
+            "You have exposure to AWS",
+            "You have experience using development and team tools such as Jira, Eclipse, GIT, Jenkins, and Udeploy",
+            "You are familiar with Institutional and Capital Markets products such as prime brokerage, fixed income, and equities",
+            "Within this space, you will have related experience to trade operations and post-trade analysis, profit/loss analysis, customer relationship management, and compliance/supervisory reporting",
+            "You have experience working in Scrum Agile and Agile@Scale product development environments",
+            "You will be collaborating with business product owners, end users, and other technology teams",
+            "Most significantly, you will be forward-thinking and able to adapt to new technologies and trends",
+            "Listening to product owners to understand the business value they want to deliver"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113300",
+        "job_onet_job_zone": "4"
+      },
+      {
+        "job_id": "FJcRIq9QHX5Gd0WnAAAAAA==",
+        "employer_name": "Deloitte",
+        "employer_logo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Deloitte_Logo.png",
+        "employer_website": "http://www.deloitte.com",
+        "employer_company_type": "Consulting",
+        "job_publisher": "Deloitte Jobs",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Lead Full Stack Developer",
+        "job_apply_link": "https://jobsus.deloitte.com/hermitage-tn/lead-full-stack-developer/327A8578B5CD483AAEE0EA7DA99B42B0/job/",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.7913,
+        "apply_options": [
+          {
+            "publisher": "Deloitte Jobs",
+            "apply_link": "https://jobsus.deloitte.com/hermitage-tn/lead-full-stack-developer/327A8578B5CD483AAEE0EA7DA99B42B0/job/",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Are you looking to make an immediate impact where you can help our clients solve their business challenges? Deloitte's Core Business Operations (CBO) portfolio operates at the center of our client's business. By joining our team, you could help C-suite and program leaders transform their organization and accelerate mission execution through emerging and disruptive technologies, innovative business models, retooled program operations and industry-driven solutions.\n\nWork you'll do\n• Identify and analyze user requirements.\n• Develop applications using Java, J2EE, JSP, Angular, HTML, CSS, JS, and Spring.\n• Develop Spring MVC framework-based applications to modernize the client legacy application.\n• Write well designed and efficient code.\n• Review, test, and debug team members' code.\n• Document development phases.\n• Ensure applications are secure and up to date.\n• Lead team members in SDLC, and meeting client requirements.\n• Follow and participate in all efforts related to the SDLC.\n• Utilize the agile methodology.\n\nThe team\n\nDeloitte's Government and Public Services (GPS) practice - our people, ideas, technology, and outcomes-is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of over 15,000+ professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.\n\nThe Application Modernization and Innovation offering is comprised of experienced professionals who help guide clients through their most complex technology challenges. This can include the delivery of large-scale software applications & integrated systems, the development of service-oriented architecture (SOA) & other integrations solutions, and the delivery of technology enablement to support CIO services transformation. Our Application Modernization and Innovation offering focuses on key client issues that impact the core business. We provide operational value, modernized mission solutions, and enhanced technology innovation.\n\nQualifications\n\nRequired:\n• Bachelor's degree required.\n• Limited immigration sponsorship may be available.\n• Must be able to obtain and maintain the required clearance for this role.\n• Ability to travel 10-25%, on average, based on the work you do and the clientsandindustries/sectorsyou serve.\n• 5+ years of experience in software development using relevant tools.\n• 2+ years leading development teams.\n• Ability to work onsite at your local Deloitte office 5 days a week.\n\nPreferred:\n• Ability to work onsite at Deloitte's Carson City, NV office 5 days a week.\n• Expertise in coding with Java, JavaScript, and database using Spring MVC framework.\n• Previous experience developing Spring MVC framework-based applications using Angular, JSP, and Java.\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1709257812,
+        "job_posted_at_datetime_utc": "2024-03-01T01:50:12.000Z",
+        "job_city": null,
+        "job_state": "TN",
+        "job_country": "US",
+        "job_latitude": 35.51749,
+        "job_longitude": -86.580444,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer&htidocid=FJcRIq9QHX5Gd0WnAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": null,
+        "job_offer_expiration_timestamp": null,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": 60,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": true,
+          "degree_preferred": false,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+          "Qualifications": [
+            "Bachelor's degree required",
+            "Limited immigration sponsorship may be available",
+            "Must be able to obtain and maintain the required clearance for this role",
+            "Ability to travel 10-25%, on average, based on the work you do and the clientsandindustries/sectorsyou serve",
+            "5+ years of experience in software development using relevant tools",
+            "2+ years leading development teams",
+            "Ability to work onsite at your local Deloitte office 5 days a week"
+          ],
+          "Responsibilities": [
+            "Identify and analyze user requirements",
+            "Develop applications using Java, J2EE, JSP, Angular, HTML, CSS, JS, and Spring",
+            "Develop Spring MVC framework-based applications to modernize the client legacy application",
+            "Write well designed and efficient code",
+            "Review, test, and debug team members' code",
+            "Document development phases",
+            "Ensure applications are secure and up to date",
+            "Lead team members in SDLC, and meeting client requirements",
+            "Follow and participate in all efforts related to the SDLC",
+            "Utilize the agile methodology"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113300",
+        "job_onet_job_zone": "4",
+        "job_naics_code": "541613",
+        "job_naics_name": "Marketing Consulting Services"
+      },
+      {
+        "job_id": "wqTLEIy5Q2KgZ97sAAAAAA==",
+        "employer_name": "Software Technology Inc.",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWsGLi3yMAg5FyBcrnbDvEtvAFR1MXUk5jKSQ&s=0",
+        "employer_website": null,
+        "employer_company_type": null,
+        "job_publisher": "LinkedIn",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Lead JAVA Full Stack Developer - Remote",
+        "job_apply_link": "https://www.linkedin.com/jobs/view/lead-java-full-stack-developer-remote-at-software-technology-inc-3844947451",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.6897,
+        "apply_options": [
+          {
+            "publisher": "LinkedIn",
+            "apply_link": "https://www.linkedin.com/jobs/view/lead-java-full-stack-developer-remote-at-software-technology-inc-3844947451",
+            "is_direct": false
+          },
+          {
+            "publisher": "Jobright AI",
+            "apply_link": "https://jobright.ai/jobs/info/65e45641509749a2abf3408c",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Job Title: Lead Java Full Stack\n\nLocation: Remote, , United States\n\nDescription\n\nLead Java Full Stack\n\nYour Future Duties And Responsibilities\n\nCreate or Update documentation in support of development efforts. Documents may include detailed specifications, implementation guides, architecture diagrams or design documents.\n\nDesign solutions/options and collaborate with the enterprise architecture group to move solutions forward\n\nParticipate and lead code reviews with peers and managers to ensure that each increment adheres to the original vision as described in the user story and all standard resource libraries and architecture patterns as appropriate.\n\nParticipate in all agile ceremonies including planning, grooming, product demonstration and team retrospectives.\n\nLeverage client DevOps tool stack to build, inspect, deploy in cloud platform, test and promote new or updated features.\n\nMaintaining and updating the project related design documents\n\nProduce high quality code, following and recommending best practices.\n\nRequired Qualifications To Be Successful In This Role\n\n10+ years of total development experience in Java/J2EE technologies - Front end and Back End\n\nExperience with developing REST/JSON APIs using Java and Spring\n\nStrong AWS experience - especially in migrating applications from on-prem to Cloud\n\nAbility to Lead and work hands-on as a Developer\n\nDevOPs experience - good to have\n\nCompetent in distributed systems design and implementation. Experience with Object-Oriented Design and test-driven development.|\n\nProficiency in unit testing/Mockito as well as coding in Java 8 and Spring Boot technologies\n\nExperience in testing automation using Junit 5/Mockito, Cucumber\n\nHands-On experience with database development using SQL\n\nExperience in UI/UX (Front end)\n\nExperience working in Agile environment, including SAFe\n\nGood communication and problem solving skills\n\nExperienced in mentoring and directing development and automation teams\n\nGood proficiency in coding in Java 8, Spring Boot, Micro Services technologies\n\nWork on cloud transformation effort, move application components to AWS, update code, create/run CICD pipeline\n\nWork with product owners and other development team members to determine new features and user stories needed in new/revised applications or large/complex development projects.\n\nDesired Skillset\n\nSpring cloud, Spring Core, Spring Data, Spring MVC, Spring Security and REST Web Services is a must.\n\nExperience with Front End development required (HTML5, CSS, JavaScript, JQuery, Bootstrap)\n\nAdvanced JavaScript framework (e.g.. Angular, React, VueJS) is preferred\n\nHands-on experience on AWS platform\n\nEDUCATION REQUIREMENT\n\nBachelor 's degree in Computer Science, Information Systems or related field\n\nSkills\n• J2EE - 9 year(s)\n• Java - 9 year(s)\n• SQL - 9 year(s)\n• UX requirements - 9 year(s)",
+        "job_is_remote": true,
+        "job_posted_at_timestamp": 1709444848,
+        "job_posted_at_datetime_utc": "2024-03-03T05:47:28.000Z",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "US",
+        "job_latitude": 37.09024,
+        "job_longitude": -95.71289,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer&htidocid=wqTLEIy5Q2KgZ97sAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-04-02T05:47:17.000Z",
+        "job_offer_expiration_timestamp": 1712036837,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": 120,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": true,
+          "degree_mentioned": true,
+          "degree_preferred": true,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+          "Qualifications": [
+            "10+ years of total development experience in Java/J2EE technologies - Front end and Back End",
+            "Experience with developing REST/JSON APIs using Java and Spring",
+            "Strong AWS experience - especially in migrating applications from on-prem to Cloud",
+            "Ability to Lead and work hands-on as a Developer",
+            "DevOPs experience - good to have",
+            "Competent in distributed systems design and implementation",
+            "Experience with Object-Oriented Design and test-driven development.|",
+            "Proficiency in unit testing/Mockito as well as coding in Java 8 and Spring Boot technologies",
+            "Experience in testing automation using Junit 5/Mockito, Cucumber",
+            "Hands-On experience with database development using SQL",
+            "Experience in UI/UX (Front end)",
+            "Experience working in Agile environment, including SAFe",
+            "Good communication and problem solving skills",
+            "Experienced in mentoring and directing development and automation teams",
+            "Good proficiency in coding in Java 8, Spring Boot, Micro Services technologies",
+            "Work on cloud transformation effort, move application components to AWS, update code, create/run CICD pipeline",
+            "Spring cloud, Spring Core, Spring Data, Spring MVC, Spring Security and REST Web Services is a must",
+            "Experience with Front End development required (HTML5, CSS, JavaScript, JQuery, Bootstrap)",
+            "Advanced JavaScript framework (e.g.",
+            "Bachelor 's degree in Computer Science, Information Systems or related field",
+            "J2EE - 9 year(s)",
+            "Java - 9 year(s)",
+            "SQL - 9 year(s)",
+            "UX requirements - 9 year(s)"
+          ],
+          "Responsibilities": [
+            "Create or Update documentation in support of development efforts",
+            "Documents may include detailed specifications, implementation guides, architecture diagrams or design documents",
+            "Design solutions/options and collaborate with the enterprise architecture group to move solutions forward",
+            "Participate and lead code reviews with peers and managers to ensure that each increment adheres to the original vision as described in the user story and all standard resource libraries and architecture patterns as appropriate",
+            "Participate in all agile ceremonies including planning, grooming, product demonstration and team retrospectives",
+            "Leverage client DevOps tool stack to build, inspect, deploy in cloud platform, test and promote new or updated features",
+            "Maintaining and updating the project related design documents",
+            "Produce high quality code, following and recommending best practices",
+            "Work with product owners and other development team members to determine new features and user stories needed in new/revised applications or large/complex development projects"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113300",
+        "job_onet_job_zone": "4"
+      },
+      {
+        "job_id": "yaKiZngX--_yMG_bAAAAAA==",
+        "employer_name": "Astadia",
+        "employer_logo": "https://assets-global.website-files.com/608865f490ba47226c915328/60ca583a055418ff112d00fb_Logo-Astadia-blue-600px.png",
+        "employer_website": "http://www.astadia.com",
+        "employer_company_type": null,
+        "job_publisher": "Dice",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Full Stack Developer",
+        "job_apply_link": "https://www.dice.com/job-detail/8122d14b-33eb-4128-a22e-44237670d5a9",
+        "job_apply_is_direct": true,
+        "job_apply_quality_score": 0.5593,
+        "apply_options": [
+          {
+            "publisher": "Dice",
+            "apply_link": "https://www.dice.com/job-detail/8122d14b-33eb-4128-a22e-44237670d5a9",
+            "is_direct": true
+          }
+        ],
+        "job_description": "Onsite Kontich Belgium\n\nTo strengthen our EU R&D team, we are currently looking for a full-stack developer to help us work on multiple projects/products:\n\nProject #1: Maintenance and extension of a Visual Studio Code plugin that enables maintaining COBOL code while compiling, running and debugging C#. Part of the project will be the development, in C#, of a Debug Server that enables debugging C# code while viewing COBOL. The conversion of COBOL to C# is already fully automated and is not part of this project.\n\nProject #2: Creation of a full SPA front-end based on vanilla JavaScript (i.e. no frameworks) for a new REST API that exposes analysis data. This project will be a POC initially.\n\nProject #3: Maintenance of an existing JavaScript library that enables offering a 3270-terminal emulator experience in the browser.\n\nEssential Duties and Responsibilities\n\nYour responsibility will be the development and ongoing maintenance and extension of multiple applications that share a common Javascript/HTML/CSS front-end stack.\n\nSince we ve historically not been building web applications, you will have the additional responsibility of helping us set and document new internal standards and guidelines.\n\nOccasionally you also organize small training sessions with our factory teams and customers, to help them understand how to use the products that you maintain.\n\nSkills, Knowledge, and Abilities\n\nMust haves:\n• Good programming skills in Javascript/Typescript\n• Good programming skills in C# and Java\n• Building Visual Studio Code Plugin\n• UX/UI design\n• Experience building a full web application (with SPA and REST API) from scratch\n• A proven track-record for creating modern and useable user interfaces\n• Passion to keep up with the latest evolutions in technology, while not minding to still work with older versions\n• Good verbal and written communication skills in English\n• High attention to detail\n• Highly autonomous and willing to take initiative\n\nNice to have:\n• Knowledge and experience using multiple web frameworks (Angular, React, Vue, ) and technologies\n• Interest to learn about with legacy and low-level technologies (Natural, Adabas, assembler, 3270, )\n• Prior participation in open-source projects\n\nEducation and Experience\n• Bachelor's or master s degree in Computer Science, or equivalent practical experience.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1709235467,
+        "job_posted_at_datetime_utc": "2024-02-29T19:37:47.000Z",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "US",
+        "job_latitude": 37.09024,
+        "job_longitude": -95.71289,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer&htidocid=yaKiZngX--_yMG_bAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-03-31T21:22:39.000Z",
+        "job_offer_expiration_timestamp": 1711920159,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": [
+          "C #",
+          "JavaScript",
+          "debugging",
+          "java",
+          "UX/UI"
+        ],
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": true,
+          "degree_preferred": true,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+          "Qualifications": [
+            "Good programming skills in Javascript/Typescript",
+            "Good programming skills in C# and Java",
+            "Building Visual Studio Code Plugin",
+            "UX/UI design",
+            "Experience building a full web application (with SPA and REST API) from scratch",
+            "A proven track-record for creating modern and useable user interfaces",
+            "Passion to keep up with the latest evolutions in technology, while not minding to still work with older versions",
+            "Good verbal and written communication skills in English",
+            "High attention to detail",
+            "Highly autonomous and willing to take initiative",
+            "Knowledge and experience using multiple web frameworks (Angular, React, Vue, ) and technologies",
+            "Interest to learn about with legacy and low-level technologies (Natural, Adabas, assembler, 3270, )",
+            "Prior participation in open-source projects",
+            "Bachelor's or master s degree in Computer Science, or equivalent practical experience"
+          ],
+          "Responsibilities": [
+            "Project #1: Maintenance and extension of a Visual Studio Code plugin that enables maintaining COBOL code while compiling, running and debugging C#",
+            "Part of the project will be the development, in C#, of a Debug Server that enables debugging C# code while viewing COBOL",
+            "This project will be a POC initially",
+            "Your responsibility will be the development and ongoing maintenance and extension of multiple applications that share a common Javascript/HTML/CSS front-end stack",
+            "Since we ve historically not been building web applications, you will have the additional responsibility of helping us set and document new internal standards and guidelines",
+            "Occasionally you also organize small training sessions with our factory teams and customers, to help them understand how to use the products that you maintain"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113300",
+        "job_onet_job_zone": "4"
+      },
+      {
+        "job_id": "aRYcZdyy9s5KdgmrAAAAAA==",
+        "employer_name": "TurnCommerce",
+        "employer_logo": "https://www.turncommerce.com/wp-content/themes/TurnCommerce/images/assets/tc/stack/TurnCommerce_Logo_Stack_Color.jpg",
+        "employer_website": "http://www.turncommerce.com",
+        "employer_company_type": null,
+        "job_publisher": "SimplyHired",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Senior Full-Stack Developer",
+        "job_apply_link": "https://www.simplyhired.com/job/lmSuv33g-_tXrKZqp18_sCFDa_XkJwty_7Yqukul4FMU8GHF2esE3Q",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.5416,
+        "apply_options": [
+          {
+            "publisher": "SimplyHired",
+            "apply_link": "https://www.simplyhired.com/job/lmSuv33g-_tXrKZqp18_sCFDa_XkJwty_7Yqukul4FMU8GHF2esE3Q",
+            "is_direct": false
+          },
+          {
+            "publisher": "BeBee",
+            "apply_link": "https://us.bebee.com/job/20240229-cda5f3436e57d046672e00e7b40e1ff5",
+            "is_direct": false
+          },
+          {
+            "publisher": "Denver, CO - Geebo",
+            "apply_link": "https://denver-co.geebo.com/jobs-online/view/id/1087314994-full-stack-web-developer-/",
+            "is_direct": true
+          }
+        ],
+        "job_description": "Who We Are\n\nTurnCommerce is the parent company of a wide variety of Web properties. Founded in 2003, we have experienced rapid growth year over year, focusing primarily on domain names. We provide complete solutions for domain owners & investors through deep technical expertise, powerful infrastructure, and strong customer support. We work together to solve problems and innovate as we develop. We embrace adaptivity, creativity, and an eagerness to learn within the company.\n\nWho You Are\n\nTurnCommerce is looking for an exceptional and self-driven Full-Stack developer to work on our web properties! If you've been programming for less than 8 years, you are probably not the ideal candidate. You should have a passion for building highly usable web front-ends and back-ends using Angular & C#, working in a continuous delivery environment where you will get to see your impact on a daily basis. You have a history of success in multi-team, Agile environments and are an excellent verbal and written communicator who can both share and receive feedback effectively.\n\nRequirements\n• 6+ years experience with client-side JS frameworks like Angular, React, or Ember\n• 6+ years experience with responsive design in HTML/CSS\n• 6+ years experience with C#\n• A commitment to teamwork and self-motivation\n• Experience in a full Dev-Ops environment including testing and supporting applications in production\n\nLogistics\n\nCandidates should be prepared to share examples of code they’ve developed and be willing to take a technical test. Candidates should also be prepared to provide references upon request.\n\nThis position has been categorized as a Remote position. Remote employees do not have a permanent desk in our office and, instead, work from a physical location of their choice which must be identified to the Company. Local candidates can choose to work out of our Denver office as desired, but it is not a requirement. We cannot hire candidates located in the following states: CA, WA, NY, CT, HI, IA, NM, SD, TX, WV, NC.\n\nWe cannot consider Visa Sponsorship for this position.\n\nWe participate in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the US. Click here for more info.\n\nE-Verify Right to Work Notice\n\nBenefits\n• Health insurance through Anthem Blue Cross/Blue Shield, 75% of the cost is on us!\n• Dental & Vision\n• Flexible Spending Accounts\n• Employer-paid Voluntary Life Insurance\n• Flexible Paid Time Off w/ Minimum 10 days required\n• Paid Holidays\n• Eligible for Yearly Bonus\n• 401K w/ 4% Company Match after 1 year\n\n#BI-Remote",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1709100000,
+        "job_posted_at_datetime_utc": "2024-02-28T06:00:00.000Z",
+        "job_city": "Denver",
+        "job_state": "CO",
+        "job_country": "US",
+        "job_latitude": 39.739235,
+        "job_longitude": -104.99025,
+        "job_benefits": [
+          "health_insurance",
+          "paid_time_off",
+          "retirement_savings",
+          "dental_coverage"
+        ],
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer&htidocid=aRYcZdyy9s5KdgmrAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": null,
+        "job_offer_expiration_timestamp": null,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": 72,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+          "Qualifications": [
+            "TurnCommerce is looking for an exceptional and self-driven Full-Stack developer to work on our web properties!",
+            "If you've been programming for less than 8 years, you are probably not the ideal candidate",
+            "You should have a passion for building highly usable web front-ends and back-ends using Angular & C#, working in a continuous delivery environment where you will get to see your impact on a daily basis",
+            "You have a history of success in multi-team, Agile environments and are an excellent verbal and written communicator who can both share and receive feedback effectively",
+            "6+ years experience with client-side JS frameworks like Angular, React, or Ember",
+            "6+ years experience with responsive design in HTML/CSS",
+            "6+ years experience with C#",
+            "A commitment to teamwork and self-motivation",
+            "Experience in a full Dev-Ops environment including testing and supporting applications in production",
+            "Candidates should be prepared to share examples of code they’ve developed and be willing to take a technical test",
+            "Candidates should also be prepared to provide references upon request"
+          ],
+          "Benefits": [
+            "Health insurance through Anthem Blue Cross/Blue Shield, 75% of the cost is on us!",
+            "Dental & Vision",
+            "Flexible Spending Accounts",
+            "Employer-paid Voluntary Life Insurance",
+            "Flexible Paid Time Off w/ Minimum 10 days required",
+            "Paid Holidays",
+            "Eligible for Yearly Bonus",
+            "401K w/ 4% Company Match after 1 year"
+          ]
+        },
+        "job_job_title": "Senior",
+        "job_posting_language": "en",
+        "job_onet_soc": "15113300",
+        "job_onet_job_zone": "4"
+      },
+      {
+        "job_id": "VXZqGql8TmeoK4LUAAAAAA==",
+        "employer_name": "Wise Skulls",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYqsrQ2ibAYR71EZHt34pbrd4ySfLkDryEbNXs&s=0",
+        "employer_website": null,
+        "employer_company_type": null,
+        "job_publisher": "LinkedIn",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Full Stack Developer",
+        "job_apply_link": "https://www.linkedin.com/jobs/view/full-stack-developer-at-wise-skulls-3845207272",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.6932,
+        "apply_options": [
+          {
+            "publisher": "LinkedIn",
+            "apply_link": "https://www.linkedin.com/jobs/view/full-stack-developer-at-wise-skulls-3845207272",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Title: Full Stack Developer\n\nLocation: Remote\n\nDuration: 6 Months\n\nImplementation Partner: AVM Consulting\n\nEnd Client: To be disclosed\n\nJd\n• Strong Python, Strong working AWS experience, UI experience (JSP, Angular), Java, Spring, Springboot, Databases (Oracle, PostgreSQL, Aurora) Data engineering (EMR, PySpark, Redshift, Glue), Serverless experience (Lambda, step functions), containerization (ECS with Fargate)\n• Nice to have: SAS knowledge, DevOps knowledge(Jenkins, Bitbucket, Terraform/UCD/CloudFormation), Testing Automation",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1709460645,
+        "job_posted_at_datetime_utc": "2024-03-03T10:10:45.000Z",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "US",
+        "job_latitude": 37.09024,
+        "job_longitude": -95.71289,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer&htidocid=VXZqGql8TmeoK4LUAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-04-02T05:49:23.000Z",
+        "job_offer_expiration_timestamp": 1712036963,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": true,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+          "Qualifications": [
+            "Strong Python, Strong working AWS experience, UI experience (JSP, Angular), Java, Spring, Springboot, Databases (Oracle, PostgreSQL, Aurora) Data engineering (EMR, PySpark, Redshift, Glue), Serverless experience (Lambda, step functions), containerization (ECS with Fargate)",
+            "Nice to have: SAS knowledge, DevOps knowledge(Jenkins, Bitbucket, Terraform/UCD/CloudFormation), Testing Automation"
+          ],
+          "Responsibilities": [
+            "End Client: To be disclosed"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113300",
+        "job_onet_job_zone": "4"
+      },
+      {
+        "job_id": "fljtxzVoiCgz_ZDnAAAAAA==",
+        "employer_name": "TEOCO",
+        "employer_logo": "https://teoco.com/wp-content/uploads/2019/09/teoco-logo-white-2.png",
+        "employer_website": "http://www.teoco.com",
+        "employer_company_type": "Information",
+        "job_publisher": "TEOCO",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Full Stack Developer",
+        "job_apply_link": "https://www.teoco.com/job-opportunities/full-stack-developer/",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.8041,
+        "apply_options": [
+          {
+            "publisher": "TEOCO",
+            "apply_link": "https://www.teoco.com/job-opportunities/full-stack-developer/",
+            "is_direct": false
+          },
+          {
+            "publisher": "TEOCO",
+            "apply_link": "https://www.teoco.com.en2hi.search.translate.goog/job-opportunities/full-stack-developer/",
+            "is_direct": false
+          },
+          {
+            "publisher": "Glassdoor",
+            "apply_link": "https://www.glassdoor.com/job-listing/full-stack-developer-teoco-JV_KO0,20_KE21,26.htm?jl=1008744083518",
+            "is_direct": false
+          },
+          {
+            "publisher": "Indeed",
+            "apply_link": "https://www.indeed.com/viewjob?jk=bd35ad0dc17b164e",
+            "is_direct": false
+          },
+          {
+            "publisher": "LazyApply",
+            "apply_link": "https://lazyapply.com/jobpreview/job_bd35ad0dc17b164e",
+            "is_direct": false
+          }
+        ],
+        "job_description": "TEOCO is seeking a full stack developer to work on a large and complex project that will replace at least two key systems at our customer and interface with several other critical business functions.\nResponsibilities:\n• Play a leading and mentoring role in an Agile/Scrum team architecting, prototyping, designing, developing, and testing a large-scale, green-field, new product.\n• Understanding complex data relationships, building data-models, business rules, APIs and services to implement a multi-faceted, modular, comprehensive product for tier-1 telecommunications companies.\n• Architecting highly available and highly scalable systems and services\n• Designing, developing and testing database-driven, Web and Service Based applications using a variety of technologies such as Angular, .NET Core, Java/J2EE, Python, Leaflet/Mapbox, GEOServer, machine learning, REST, and SQL relational, document, time series, document and massively parallel processing (MPP) databases.\n• Verify the software product against the product requirements with automated unit tests, functional testing and automated regression test suites.\n• Contribute to data modeling, process modeling, query authoring, workflow/task creation, input and output data feed creation and testing.\n• Leading/participating in design and code reviews and ensuring coding and security best practices.\n\nExperience and Qualifications:\n• 3-5 years’ programming experience using agile development methodologies.\n• 3-5 years’ experience in Microsoft C#.NET\n• 3-5 years’ experience in Angular (or similar) /HTML 5.0/CSS/Javascript/JSON\n• 3-5 years’ experience in SQL\n• Development experience with the production and consumption of RESTful Web Services\n• Ability to develop browser based Web UI’s with a sense of artistic style and outstanding user experience (UX)\n• Ability to work independently and as a member of a geographically diverse team\n• Strong oral and written communication skills\n• Strong understanding of relational databases and relationships between data entities\n• Knowledge of telecom industry and billing/inventory systems a plus\n• BS in Computer Science, Mathematics, Electrical Engineering or a related field",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1688601600,
+        "job_posted_at_datetime_utc": "2023-07-06T00:00:00.000Z",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "US",
+        "job_latitude": 37.09024,
+        "job_longitude": -95.71289,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer&htidocid=fljtxzVoiCgz_ZDnAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": null,
+        "job_offer_expiration_timestamp": null,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": 36,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": true,
+          "degree_preferred": true,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+          "Qualifications": [
+            "3-5 years’ programming experience using agile development methodologies",
+            "3-5 years’ experience in Microsoft C#.NET",
+            "3-5 years’ experience in Angular (or similar) /HTML 5.0/CSS/Javascript/JSON",
+            "3-5 years’ experience in SQL",
+            "Development experience with the production and consumption of RESTful Web Services",
+            "Ability to develop browser based Web UI’s with a sense of artistic style and outstanding user experience (UX)",
+            "Ability to work independently and as a member of a geographically diverse team",
+            "Strong oral and written communication skills",
+            "Strong understanding of relational databases and relationships between data entities",
+            "BS in Computer Science, Mathematics, Electrical Engineering or a related field"
+          ],
+          "Responsibilities": [
+            "Play a leading and mentoring role in an Agile/Scrum team architecting, prototyping, designing, developing, and testing a large-scale, green-field, new product",
+            "Understanding complex data relationships, building data-models, business rules, APIs and services to implement a multi-faceted, modular, comprehensive product for tier-1 telecommunications companies",
+            "Architecting highly available and highly scalable systems and services",
+            "Designing, developing and testing database-driven, Web and Service Based applications using a variety of technologies such as Angular, .NET Core, Java/J2EE, Python, Leaflet/Mapbox, GEOServer, machine learning, REST, and SQL relational, document, time series, document and massively parallel processing (MPP) databases",
+            "Verify the software product against the product requirements with automated unit tests, functional testing and automated regression test suites",
+            "Contribute to data modeling, process modeling, query authoring, workflow/task creation, input and output data feed creation and testing",
+            "Leading/participating in design and code reviews and ensuring coding and security best practices"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113300",
+        "job_onet_job_zone": "4",
+        "job_naics_code": "511210",
+        "job_naics_name": "Software Publishers"
+      },
+      {
+        "job_id": "TfZuRSZfre_R7Am3AAAAAA==",
+        "employer_name": "Boeing",
+        "employer_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Boeing_full_logo.svg/2560px-Boeing_full_logo.svg.png",
+        "employer_website": "http://www.boeing.com",
+        "employer_company_type": "Manufacturing",
+        "job_publisher": "Space Crew",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Associate Java Full Stack Developer",
+        "job_apply_link": "https://spacecrew.com/space-jobs/lt9qrw4a-boeing-associate-java-full-stack-developer",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.4877,
+        "apply_options": [
+          {
+            "publisher": "Space Crew",
+            "apply_link": "https://spacecrew.com/space-jobs/lt9qrw4a-boeing-associate-java-full-stack-developer",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Associate Java Full Stack Developer\n\nCompany:\nBoeing India Private Limited\n\nJob ID:\n00000414601\n\nDate Posted:\n2024-02-26\n\nLocation:\nIND - Bangalore, India\n\nJob Description Qualifications:\n\nOverview\n\nBoeing is the world’s largest aerospace company and a leading provider of commercial airplanes, defense, space, and security systems, and global services. Building on a legacy of over a century of innovation and leadership, Boeing continues to lead the way in technology and innovation, customer delivery, and investment in its people and future growth of aerospace.\n\nIn India, Boeing has been a strong partner to the Indian aerospace and defense sectors for more than 75 years. People at Boeing have been supporting mission readiness and modernization of India's defense forces, and enabling connected, safer, and smarter flying experiences, in the sky, in the seas, and in space.\n\nTechnology for today and tomorrow\n\nThe Boeing India Engineering & Technology Center (BIETC) is a 3000+ diverse engineering workforce that contributes to global aerospace growth. Our engineers deliver cutting-edge R&D, innovation, and high-quality engineering work in global markets, and leverage new-age technologies such as AI/ML, IIoT, Cloud, Model-Based Engineering, and Additive Manufacturing, shaping the future of aerospace.\n\nPeople-driven culture\n\nAt Boeing, we believe creativity and innovation thrives when every employee is trusted, empowered, and has the flexibility to choose, grow, learn, and explore. We offer variable arrangements depending upon business and customer needs, and professional pursuits that offer greater flexibility in the way our people work.\n\nWe also believe that collaboration, frequent team engagements, and face-to-face meetings bring diverse perspectives and thoughts enabling every voice to be heard and every perspective to be respected. No matter where or how our teammates work, we are committed to positively shaping people’s careers and being thoughtful about employee wellbeing.\n\nAt Boeing, we are inclusive, diverse, and transformative.\n\nWith us, you can create and contribute to what matters most in your career, community, country, and world. Join us in powering the progress of global aerospace.\n\nAt Boeing, we are all innovators on a mission to connect, protect, explore and inspire. From the seabed to outer space, you’ll learn and grow, contributing to work that shapes the world. Find your future with us.\n\nThe Boeing Company is currently seeking a high performing versatile experienced Associate Java Full Stack Developer to join the Product Support and Services Mobility and Innovation team in Bangalore KA. The team provides comprehensive digitally native mobile, progressive web and innovation solutions to rapidly access and transform complex business scenarios by enabling digital products that enhance revenue opportunities and efficiencies for Boeing. Responsibilities include development and integration for a variety of Commercial off the Shelf (COTS) and in house software application supporting our business lines. Job requires working within a diverse team of skilled and motivated co-workers to collaborate on results. Other qualities for this candidate are a positive attitude, self-motivated, the ability to work in a fast-paced, demanding environment, and the ability to adapt to changing priorities.\n\nGood communication skills are needed both verbally and written, to Interact with peers and customers. Job requires the ability to work well with others on a team as well as independently. Job requires working within a diverse team of skilled and motivated co-workers to collaborate on results. Other qualities for this candidate are a positive attitude, self-motivated, the ability to work in a fast-paced, demanding environment, and the ability to adapt to changing priorities.\n\nPosition Responsibilities:\n• Understands and develops software solutions to meet end user's requirements.\n• Ensures that application integrates with overall system architecture, utilizing standard IT lifecycle methodologies and tools.\n• Develops algorithms, data and process models, plans interfaces that are digitally and cloud native for use in construction of solutions of varying complexities.\n\nEmployer will not sponsor applicants for employment visa status\n\nBasic Qualifications (Required Skills/Experience):\n• Expertise with latest Java technologies including APIfication, microservices, content management and cloud based PaaS components.\n• Proven work experience in REST, JSON, JQuery\n• In depth Knowledge of Java backend technologies and experience in integrating with Java business layer systems using Spring, micro services, APIs etc.\n• Develop new software that enables the launch of new products, functionality and services with technologies ranging from HTML5, CSS3, and JavaScript.\n• Able to contribute to build and deployment automation using tools like Kubernetes, Docker, Bamboo etc.\n• Experience with any JavaScript frameworks like NodeJS, AngularJS, ReactJS, BackboneJS, Electron, Vue and Bootstrap.\n• Excellent Presentation and communication skills to work in a globally distributed team\n\nPreferred Qualifications (Desired Skills/Experience):\n• Experience in Aerospace domain.\n• Knowledge of Architectural and REST principles\n• Excellent communication and presentation skills, with an emphasis on visualizing and understanding data.\n• Proficient in Agile Methodologies (eg. Scrum, Kanban)\n• Experience in Data structures, algorithms and Design Patterns.\n• DevOps, Continuous Integration. Experience in using any CICD tools like Bamboo/Jenkins, Coverity, SonarQube, Jfrog, Artifactory etc.\n\nTypical Education & Experience:\n• Typically, 4 or more years’ related work experience or relevant military experience. Advanced degree (e.g. Bachelor, Master, etc.) preferred, but not required.\n\nRelocation:\n• This position offers relocation based on candidate eligibility\n\nBoeing is the world's largest aerospace company and leading manufacturer of commercial airplanes and defense, space and security systems. We are engineers and technicians. Skilled scientists and thinkers. Bold innovators and dreamers. Join us, and you can build something better for yourself, for our customers and for the world.\n\nRelocation:\nRelocation is available for eligible candidates, if authorized\n\nExport Control Requirement:\nThis is an export control position.\n\nSafety Sensitive:\nThis is not a safety sensitive position\n\nContingent Upon Award Program\nThis position is not contingent upon program award\n\nExperience Level:\nIndividual Contributor - 1\n\nJob Type:\nRegular\n\nJob Code:\nBAMBI1 (B92)",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1709363302,
+        "job_posted_at_datetime_utc": "2024-03-02T07:08:22.000Z",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "US",
+        "job_latitude": 37.09024,
+        "job_longitude": -95.71289,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer&htidocid=TfZuRSZfre_R7Am3AAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": null,
+        "job_offer_expiration_timestamp": null,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": 48,
+          "experience_mentioned": true,
+          "experience_preferred": true
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": true,
+          "degree_preferred": true,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+          "Qualifications": [
+            "Other qualities for this candidate are a positive attitude, self-motivated, the ability to work in a fast-paced, demanding environment, and the ability to adapt to changing priorities",
+            "Good communication skills are needed both verbally and written, to Interact with peers and customers",
+            "Job requires the ability to work well with others on a team as well as independently",
+            "Expertise with latest Java technologies including APIfication, microservices, content management and cloud based PaaS components",
+            "Proven work experience in REST, JSON, JQuery",
+            "In depth Knowledge of Java backend technologies and experience in integrating with Java business layer systems using Spring, micro services, APIs etc",
+            "Develop new software that enables the launch of new products, functionality and services with technologies ranging from HTML5, CSS3, and JavaScript",
+            "Able to contribute to build and deployment automation using tools like Kubernetes, Docker, Bamboo etc",
+            "Experience with any JavaScript frameworks like NodeJS, AngularJS, ReactJS, BackboneJS, Electron, Vue and Bootstrap",
+            "Excellent Presentation and communication skills to work in a globally distributed team",
+            "Scrum, Kanban)",
+            "Experience in Data structures, algorithms and Design Patterns",
+            "DevOps, Continuous Integration",
+            "Experience in using any CICD tools like Bamboo/Jenkins, Coverity, SonarQube, Jfrog, Artifactory etc",
+            "Typically, 4 or more years’ related work experience or relevant military experience"
+          ],
+          "Responsibilities": [
+            "Understands and develops software solutions to meet end user's requirements",
+            "Ensures that application integrates with overall system architecture, utilizing standard IT lifecycle methodologies and tools",
+            "Develops algorithms, data and process models, plans interfaces that are digitally and cloud native for use in construction of solutions of varying complexities"
+          ],
+          "Benefits": [
+            "This position is not contingent upon program award"
+          ]
+        },
+        "job_job_title": "Associate",
+        "job_posting_language": "en",
+        "job_onet_soc": "15113300",
+        "job_onet_job_zone": "4",
+        "job_naics_code": "336411",
+        "job_naics_name": "Aircraft Manufacturing"
+      },
+      {
+        "job_id": "p1ld4K93KGOJM91RAAAAAA==",
+        "employer_name": "CarmaCare",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyDJVPxtnPEFVVXJzNv5aD_Pkjy_g6CZ7IXkNN&s=0",
+        "employer_website": null,
+        "employer_company_type": null,
+        "job_publisher": "Built In Chicago",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Full Stack Developer",
+        "job_apply_link": "https://www.builtinchicago.org/job/full-stack-developer/192019",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.681,
+        "apply_options": [
+          {
+            "publisher": "Built In Chicago",
+            "apply_link": "https://www.builtinchicago.org/job/full-stack-developer/192019",
+            "is_direct": false
+          },
+          {
+            "publisher": "BeBee",
+            "apply_link": "https://us.bebee.com/job/20240224-266ba748eee2796ab9d243d530d15613",
+            "is_direct": false
+          },
+          {
+            "publisher": "Jobs Trabajo.org",
+            "apply_link": "https://us.trabajo.org/job-1842-20240228-2310bc198f420f44a127fd1a25a5d919",
+            "is_direct": false
+          }
+        ],
+        "job_description": "About CarmaCare\n\nCarmaCare is on a mission to make car ownership more affordable and convenient for everyone. We are building a proprietary healthcare for your car subscription service that provides a seamless end to end digital experience and gives consumers peace of mind for any surprise out of pocket repair bills. We are leveraging technology and data to disrupt the analog and antiquated $40 billion Auto Warranty/Vehicle Service Contract space.\n\nCarmaCare is backed by some of the most well respected venture capitalists in the world. We are founded by two entrepreneurs with deep experience in FinTech / InsurTech, multiple exits, and 3 unicorns created. Come help us build the fourth!\n\nRoles and Responsibilities\n• Architect, design and build systems across the entire user experience (end-customer facing, back-end systems, agent and partner interfaces, underwriting engines, etc)\n• Build software that will actually get used!\n• Serve as integral voice in product design, prioritization, and deployment\n• Lay the infrastructure for immense future scale\n• Cultural champion for the engineering org. Help us build the company you want to work for.\n• Help recruit and interview to build out the organization\n\nQualifications\n• 3+ years Elixir/Phoenix/Erlang/TypeScript\n• Comfortable with small, venture backed startups\n• Self-starter. You will be the first technical hire!\n• Experience building low-latency RESTful APIs\n• Experience in ecommerce is a strong plus\n• Experience with AI / underwriting engines is a plus\n• Eager to learn and grow as an engineer, a leader and an entrepreneur\n• Preference given to candidates in Chicago, but remote is also welcome\n\nBenefits\n• Flexible office environment (unlimited work from wherever)\n• Competitive salary\n• Equity in the business\n• Health / Dental / Vision insurance\n• Flexible PTO",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1708767240,
+        "job_posted_at_datetime_utc": "2024-02-24T09:34:00.000Z",
+        "job_city": "Chicago",
+        "job_state": "IL",
+        "job_country": "US",
+        "job_latitude": 41.878113,
+        "job_longitude": -87.6298,
+        "job_benefits": [
+          "health_insurance",
+          "paid_time_off",
+          "dental_coverage"
+        ],
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer&htidocid=p1ld4K93KGOJM91RAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-03-25T00:00:00.000Z",
+        "job_offer_expiration_timestamp": 1711324800,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": true,
+          "experience_preferred": true
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": true,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": 120000,
+        "job_max_salary": 120000,
+        "job_salary_currency": "USD",
+        "job_salary_period": "YEAR",
+        "job_highlights": {
+          "Qualifications": [
+            "3+ years Elixir/Phoenix/Erlang/TypeScript",
+            "Comfortable with small, venture backed startups",
+            "Self-starter",
+            "Experience building low-latency RESTful APIs",
+            "Experience in ecommerce is a strong plus",
+            "Eager to learn and grow as an engineer, a leader and an entrepreneur",
+            "Preference given to candidates in Chicago, but remote is also welcome"
+          ],
+          "Responsibilities": [
+            "Architect, design and build systems across the entire user experience (end-customer facing, back-end systems, agent and partner interfaces, underwriting engines, etc)",
+            "Build software that will actually get used!",
+            "Serve as integral voice in product design, prioritization, and deployment",
+            "Lay the infrastructure for immense future scale"
+          ],
+          "Benefits": [
+            "Flexible office environment (unlimited work from wherever)",
+            "Competitive salary",
+            "Equity in the business",
+            "Health / Dental / Vision insurance",
+            "Flexible PTO"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113300",
+        "job_onet_job_zone": "4"
+      },
+      {
+        "job_id": "JAI86hZQrXBOfSPpAAAAAA==",
+        "employer_name": "Upwork",
+        "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+        "employer_website": "http://www.elance.com",
+        "employer_company_type": "Computer Services",
+        "job_publisher": "Upwork",
+        "job_employment_type": "CONTRACTOR",
+        "job_title": "Full Stack Developer",
+        "job_apply_link": "https://www.upwork.com/en-gb/freelance-jobs/apply/Full-Stack-Developer_~019eb69f23d0c412d3/",
+        "job_apply_is_direct": true,
+        "job_apply_quality_score": 0.6854,
+        "apply_options": [
+          {
+            "publisher": "Upwork",
+            "apply_link": "https://www.upwork.com/en-gb/freelance-jobs/apply/Full-Stack-Developer_~019eb69f23d0c412d3/",
+            "is_direct": true
+          }
+        ],
+        "job_description": "Our team includes Ukrainian developers specializing in application development. We are currently looking for Google developer accounts globally. We're looking for accounts that have a history and already have multiple apps.\n\nWe have a little safe task for you. Our applications comply with all Google Console guidelines. You need to have your own Google Play console only.",
+        "job_is_remote": true,
+        "job_posted_at_timestamp": 1709205152,
+        "job_posted_at_datetime_utc": "2024-02-29T11:12:32.000Z",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "US",
+        "job_latitude": 37.09024,
+        "job_longitude": -95.71289,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer&htidocid=JAI86hZQrXBOfSPpAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": null,
+        "job_offer_expiration_timestamp": null,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": false,
+          "experience_preferred": false
+        },
+        "job_required_skills": [
+          "Full-Stack Development",
+          "Java",
+          "Android App Development",
+          "Android",
+          "Android Developer",
+          "Web Development"
+        ],
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113300",
+        "job_onet_job_zone": "4",
+        "job_naics_code": "541511",
+        "job_naics_name": "Custom Computer Programming Services"
+      }
+    ]
+  }

@@ -1,0 +1,849 @@
+{
+  "status": "OK",
+  "request_id": "af18de01-50c1-4070-9218-8d3f8d8dafb4",
+  "parameters": {
+    "query": "full stack developer, android, software engineer",
+    "page": 1,
+    "num_pages": 1
+  },
+  "data": [
+    {
+      "job_id": "WOdXX4WRpdvV6FADAAAAAA==",
+      "employer_name": "Golfstiks",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQTsj7yMryPDJdMiVB0omwTPI_McyHdxToOTF4&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "Wellfound",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Full-Stack Software Developer – (Website, IOS, and Android)",
+      "job_apply_link": "https://wellfound.com/jobs/1384386-full-stack-software-developer-website-ios-and-android",
+      "job_apply_is_direct": true,
+      "job_apply_quality_score": 0.6827,
+      "apply_options": [
+        {
+          "publisher": "Wellfound",
+          "apply_link": "https://wellfound.com/jobs/1384386-full-stack-software-developer-website-ios-and-android",
+          "is_direct": true
+        }
+      ],
+      "job_description": "We are a startup company looking for an enthusiastic, creative, and driven person who would be passionate about our vision and product. You will be involved in all levels of our application development process (design, development, and quality testing) that includes front-end, back-end, updating existing website and App codes or a complete re-write of the application to make it more functional, fluid, responsive, improved customer experience and aesthetics.\n\nBuild new features across our iOS, Android, Web apps and our marketing site.\n\nGolfstiks focuses on Mobile. Their company has offices in Austin. They have a small team that's between 1-10 employees.\n\nYou can view their website at https://www.golfstiks.com or find them on Twitter, Facebook, and LinkedIn.",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1706431019,
+      "job_posted_at_datetime_utc": "2024-01-28T08:36:59.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer,+android,+software+engineer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer,+android,+software+engineer&htidocid=WOdXX4WRpdvV6FADAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-03-24T09:19:13.000Z",
+      "job_offer_expiration_timestamp": 1711271953,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": null,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Responsibilities": [
+          "You will be involved in all levels of our application development process (design, development, and quality testing) that includes front-end, back-end, updating existing website and App codes or a complete re-write of the application to make it more functional, fluid, responsive, improved customer experience and aesthetics"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "hJZSYRZWfwGWG2T6AAAAAA==",
+      "employer_name": "Upwork",
+      "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+      "employer_website": "http://www.elance.com",
+      "employer_company_type": "Computer Services",
+      "job_publisher": "Upwork",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Looking for Full Stack Engineer - Mobile App - Flutter Developer",
+      "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/Looking-for-Full-Stack-Engineer-Mobile-App-Flutter-Developer_~018ab367c3ee7256b6/",
+      "job_apply_is_direct": true,
+      "job_apply_quality_score": 0.6854,
+      "apply_options": [
+        {
+          "publisher": "Upwork",
+          "apply_link": "https://www.upwork.com/freelance-jobs/apply/Looking-for-Full-Stack-Engineer-Mobile-App-Flutter-Developer_~018ab367c3ee7256b6/",
+          "is_direct": true
+        }
+      ],
+      "job_description": "We are seeking an exceptional full stack developer to join our small team of four on a full time basis. We prefer candidates seeking a steady, long term working relationship. Hours are flexible though meaningful overlap with USA timezones are preferred, especially in the beginning of the relationship as you onboard.\n\nSkills you'll bring:\n\nSolid frontend experience developing in at least one of these frameworks React, React Native, Flutter. Please be prepared to share a portfolio of your work.\n\nSolid ``backend experience developing in at least one of these languages: python, nodejs, go\n\nProficiency with GitHub: creating branches, pull requests, and using pull requests for code review.\n\nAttention to detail when reading ticket specifications and building product. To demonstrate your attention to detail, when applying for this position be sure to share what your favorite sport is.\n\nStrong written English. We primarily operate in Slack, Linear, and Github. You should feel comfortable asking questions, seeking clarification, and posting updates in our team channels.\n\nRequirements:\n\nCandidates will undergo a technical screening with our CTO in which you complete a short full stack assignment in the frameworks you know. The screening will take no more than one hour.\n\nAt least 5 years software development experience\n\nIf you believe that your skills and expertise align with the requirements of this position, please send us your CV for review. Additionally, if you have a portfolio or examples of previous work, we would be interested in seeing them. We are eager to assess your qualifications and establish a cooperative relationship as soon as possible.\n\nWe look forward to hearing from you.",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1709521612,
+      "job_posted_at_datetime_utc": "2024-03-04T03:06:52.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer,+android,+software+engineer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer,+android,+software+engineer&htidocid=hJZSYRZWfwGWG2T6AAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 60,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": ["Flutter", "Mobile App", "Full Stack Engineer"],
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": 15,
+      "job_max_salary": 40,
+      "job_salary_currency": "USD",
+      "job_salary_period": "HOUR",
+      "job_highlights": {
+        "Qualifications": [
+          "Solid frontend experience developing in at least one of these frameworks React, React Native, Flutter",
+          "Please be prepared to share a portfolio of your work",
+          "Solid ``backend experience developing in at least one of these languages: python, nodejs, go",
+          "Proficiency with GitHub: creating branches, pull requests, and using pull requests for code review",
+          "Strong written English",
+          "At least 5 years software development experience"
+        ],
+        "Responsibilities": [
+          "Attention to detail when reading ticket specifications and building product"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4",
+      "job_naics_code": "541511",
+      "job_naics_name": "Custom Computer Programming Services"
+    },
+    {
+      "job_id": "LXXl2WXmkrZLEX_CAAAAAA==",
+      "employer_name": "object studio",
+      "employer_logo": null,
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "Glassdoor",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Angular & ASP.NET Full Stack Developer (REMOTE - USA Based ONLY)",
+      "job_apply_link": "https://www.glassdoor.com/job-listing/angular-asp-net-full-stack-developer-remote-usa-based-only-object-studio-JV_KO0,58_KE59,72.htm?jl=1009148184332",
+      "job_apply_is_direct": true,
+      "job_apply_quality_score": 0.5448,
+      "apply_options": [
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/angular-asp-net-full-stack-developer-remote-usa-based-only-object-studio-JV_KO0,58_KE59,72.htm?jl=1009148184332",
+          "is_direct": true
+        }
+      ],
+      "job_description": "Looking for talented full stack developer with extensive Angular 2+ and ASP.NET experience to join a team making big things happen.\n\n- - -\n\nRequirements/Details:\n• Minimum 5 years professional developer experience.\n• Work from home. Prefer candidates in Las Vegas, NV, Dallas, TX or Austin, TX areas – but US is a must.\n• Highly skilled with HTML5, CSS3, and JS\n• Minimum 5 years Angular experience\n• Minimum 5 years ASP.NET MVC and WebAPI (Framework or Core)\n• Minimum 3 years with MSSQL\n• Minimum 3 years using cloud hosting (AWS or Azure)\n\nOther Valuable Skills:\n• Experience with Ionic mobile framework or Capacitor/Cordova based mobile apps a plus\n• Experience with iOS or Android native development a plus\n• Experience in the Casino Gaming industry a plus.\n\n- - -\n\nApplicants:\n\nLooking for a FTE or long term contractor located in the Las Vegas, NV, Dallas, TX or Austin, TX area. Position will be work from home for foreseeable future but we’d like to have the option for you to get face time with our team members (or clients) that are out of Las Vegas and Dallas.\n\nLooking for applicants that want to build things they’re proud of. Hours are flexible too - but we will look for applicants that are self-starters and good time managers that can excel in a remote work situation.\n\nIn your cover letter: Please provide a portfolio link or share links to software products you've worked on and explain your role in the development of the product - highlighting those relevant to this job and its technical requirements.\n\nPlease do not contact if you are a recruiter or agency - we are looking for a direct candidate relationship. Responses will be filtered out and not reviewed by hiring manager.\n\n- - -\n\nAbout object studio:\n\nOur goal at object studio is to help innovators dream big and bring new concepts and ideas to market. Whether this is a startup or a multi-national – we believe in high quality product and high touch service for our customers. We offer full stack development services delivered on cloud infrastructure or on premise – including backend dev, front end, and mobile. We’ve helped numerous startup go from concept to acquisition but also retain a healthy set of notable enterprise / brand relationships like Red Bull, Sightline Payments, and Golden Entertainment, and IGT. We’re a small team where individuals make a huge difference and drive the creative process.\n\nhttps://www.objectstudio.co\n\nJob Types: Full-time, Contract\n\nPay: $110,000.00 - $130,000.00 per year\n\nBenefits:\n• 401(k)\n• Dental insurance\n• Flexible schedule\n• Flexible spending account\n• Health insurance\n• Health savings account\n• Paid time off\n• Referral program\n• Retirement plan\n• Vision insurance\n\nSchedule:\n• 8 hour shift\n• Monday to Friday\n\nPeople with a criminal record are encouraged to apply\n\nApplication Question(s):\n• Have you worked in an environment where you've had to manage your own hours in the past? Or worked remotely? Were you successful in this type of workplace?\n\nEducation:\n• Bachelor's (Preferred)\n\nExperience:\n• ASP.NET: 5 years (Required)\n• Angular: 3 years (Required)\n• Microsoft SQL Server: 1 year (Preferred)\n\nWork Location: Remote",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1709078400,
+      "job_posted_at_datetime_utc": "2024-02-28T00:00:00.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": [
+        "paid_time_off",
+        "retirement_savings",
+        "dental_coverage",
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer,+android,+software+engineer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer,+android,+software+engineer&htidocid=LXXl2WXmkrZLEX_CAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-06-28T00:00:00.000Z",
+      "job_offer_expiration_timestamp": 1719532800,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 60,
+        "experience_mentioned": true,
+        "experience_preferred": true
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": true,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": 110000,
+      "job_max_salary": 130000,
+      "job_salary_currency": "USD",
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "NET experience to join a team making big things happen",
+          "Minimum 5 years professional developer experience",
+          "Prefer candidates in Las Vegas, NV, Dallas, TX or Austin, TX areas – but US is a must",
+          "Highly skilled with HTML5, CSS3, and JS",
+          "Minimum 5 years ASP",
+          "NET MVC and WebAPI (Framework or Core)",
+          "Minimum 3 years with MSSQL",
+          "Minimum 3 years using cloud hosting (AWS or Azure)",
+          "People with a criminal record are encouraged to apply",
+          "ASP.NET: 5 years (Required)",
+          "Angular: 3 years (Required)"
+        ],
+        "Benefits": [
+          "Pay: $110,000.00 - $130,000.00 per year",
+          "401(k)",
+          "Dental insurance",
+          "Flexible schedule",
+          "Flexible spending account",
+          "Health insurance",
+          "Health savings account",
+          "Paid time off",
+          "Referral program",
+          "Retirement plan",
+          "Vision insurance",
+          "8 hour shift"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "KZo1u9yqU6ZCF9hhAAAAAA==",
+      "employer_name": "BoldHue",
+      "employer_logo": null,
+      "employer_website": "http://www.boldhue.com",
+      "employer_company_type": null,
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Flutter Full Stack Developer",
+      "job_apply_link": "https://www.linkedin.com/jobs/view/flutter-full-stack-developer-at-boldhue-3840185969",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6879,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/flutter-full-stack-developer-at-boldhue-3840185969",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee",
+          "apply_link": "https://us.bebee.com/job/20240304-dd25dca57f6747722b160cd002ca7e2d",
+          "is_direct": false
+        }
+      ],
+      "job_description": "About Us: BoldHue is an IoT device that will tap into the $37B personalized beauty category by using our patented technology encompassed with our proprietary skin typing algorithm to provide makeup wearers with their personalized beauty products at home and on-demand. For makeup wearers who struggle to find their foundation shade, BoldHue's smart device alleviates in-store or online guesswork, providing convenience straight to consumers' doorsteps. We are on a mission to make every consumer feel included in an outdated industry.\n\nPosition Overview: As a Flutter Full Stack Developer at BoldHue, you will have the opportunity to work on cutting-edge projects that leverage the latest in mobile and web technologies. You will be an integral part of our development team, responsible for building and maintaining high-quality, user-friendly applications that provide exceptional experiences for our customers.\n\nResponsibilities:\n• Collaborate with cross-functional teams to design, develop, and maintain mobile applications using Flutter.\n• Develop mobile applications that work seamlessly on both Android and iOS platforms that connect to our IoT devices.\n• Create responsive and visually appealing user interfaces that align with design specifications.\n• Implement and integrate RESTful APIs, databases, and backend services.\n• Write clean, maintainable, and well-documented code.\n• Debug and troubleshoot issues, optimizing application performance.\n• Stay up-to-date with the latest industry trends and best practices.\n• Collaborate with UI/UX designers to ensure a seamless and engaging user experience.\n• Participate in code reviews and provide mentorship to junior developers when needed.\n\nQualifications:\n• Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent work experience).\n• Proven experience as a Full Stack Developer, with a strong focus on Flutter for mobile development.\n• Proficiency in Dart programming language and Flutter framework.\n• Experience with backend development and database integration.\n• Familiarity with RESTful APIs and third-party integrations.\n• Experience with Bluetooth communication is a plus.\n• Strong problem-solving skills and attention to detail.\n• Excellent communication and collaboration abilities.\n• Ability to work independently and within a team.\n\nBoldHue is an equal opportunity employer. We value diversity and are committed to creating an inclusive workplace for all team members.",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1709314908,
+      "job_posted_at_datetime_utc": "2024-03-01T17:41:48.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer,+android,+software+engineer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer,+android,+software+engineer&htidocid=KZo1u9yqU6ZCF9hhAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-08-28T17:41:23.000Z",
+      "job_offer_expiration_timestamp": 1724866883,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": null,
+        "experience_mentioned": true,
+        "experience_preferred": true
+      },
+      "job_required_skills": [
+        "Full-Stack Development",
+        "Stack",
+        "Flutter",
+        "Software Development",
+        "Web Development",
+        "Cascading Style Sheets (CSS)",
+        "Application Development",
+        "Bootstrap (Framework)",
+        "Programming",
+        "XML"
+      ],
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": true,
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent work experience)",
+          "Proven experience as a Full Stack Developer, with a strong focus on Flutter for mobile development",
+          "Proficiency in Dart programming language and Flutter framework",
+          "Experience with backend development and database integration",
+          "Familiarity with RESTful APIs and third-party integrations",
+          "Strong problem-solving skills and attention to detail",
+          "Excellent communication and collaboration abilities",
+          "Ability to work independently and within a team"
+        ],
+        "Responsibilities": [
+          "Position Overview: As a Flutter Full Stack Developer at BoldHue, you will have the opportunity to work on cutting-edge projects that leverage the latest in mobile and web technologies",
+          "You will be an integral part of our development team, responsible for building and maintaining high-quality, user-friendly applications that provide exceptional experiences for our customers",
+          "Collaborate with cross-functional teams to design, develop, and maintain mobile applications using Flutter",
+          "Develop mobile applications that work seamlessly on both Android and iOS platforms that connect to our IoT devices",
+          "Create responsive and visually appealing user interfaces that align with design specifications",
+          "Implement and integrate RESTful APIs, databases, and backend services",
+          "Write clean, maintainable, and well-documented code",
+          "Debug and troubleshoot issues, optimizing application performance",
+          "Stay up-to-date with the latest industry trends and best practices",
+          "Collaborate with UI/UX designers to ensure a seamless and engaging user experience",
+          "Participate in code reviews and provide mentorship to junior developers when needed"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "iMqeVLtxSfyOGurDAAAAAA==",
+      "employer_name": "Altametrics",
+      "employer_logo": null,
+      "employer_website": "http://www.altametrics.com",
+      "employer_company_type": null,
+      "job_publisher": "Glassdoor",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Full Stack Mobile Developer",
+      "job_apply_link": "https://www.glassdoor.com/job-listing/full-stack-mobile-developer-altametrics-JV_KO0,27_KE28,39.htm?jl=1009134138447",
+      "job_apply_is_direct": true,
+      "job_apply_quality_score": 0.6623,
+      "apply_options": [
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/full-stack-mobile-developer-altametrics-JV_KO0,27_KE28,39.htm?jl=1009134138447",
+          "is_direct": true
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=9b534373f0bdd61a",
+          "is_direct": true
+        },
+        {
+          "publisher": "Jobright AI",
+          "apply_link": "https://jobright.ai/jobs/info/65d3feaa6496bfd1b40ed356",
+          "is_direct": false
+        }
+      ],
+      "job_description": "REMOTE POSITION IN EUROPE\n\nMobile Full Stack Developer\n\n(JavaScript, TypeScript, React Framework, Mobile Development, React Native Framework, DBMS)\n\nWe are seeking a talented and experienced Full Stack Mobile Developer with a strong profiency in designing, developing and maintaining high-quality mobile applications for Android and iOS platforms. The ideal candidate will be responsible to ensure seamless and responsive user interfaces, adhering to design principles and user experience guidelines. Effective team communication is crucial for incorporating new features. Additionally, you'll document technical details, participate in code reviews, and focus on producing high-quality code. Your responsibilities will also encompass the documentation of technical specifications, APIs, and database designs. By participating in code reviews, you will be nurturing a culture that prioritizes the development of quality code.\n\nResponsibilities:\n• Design, develop, and maintain mobile applications for Android and iOS platforms.\n• Collaborate with cross-functional teams to understand project requirements and translate them into technical specifications.\n• Implement front-end components using industry-standard technologies such as React Native, Flutter, or native development (Swift for iOS, Kotlin for Android).\n• Develop and optimize back-end functionalities to ensure scalability, reliability, and overall system performance.\n• Conduct thorough testing and debugging to identify and resolve issues, ensuring a seamless user experience.\n• Stay updated on the latest trends and best practices in mobile development to drive continuous improvement.\n\nQualifications:\n• Bachelor's degree in Computer Science, related field, or equivalent experience.\n• 3+ years experience with React Native\n• Proven track record as a Full-Stack Mobile Developer with hands-on experience in developing successful Android and iOS applications.\n• Proficiency in Android development using Java/Kotlin and iOS development using Swift.\n• Experience with cross-platform frameworks such as React Native or Flutter.\n• Strong front-end development skills with HTML, CSS, and JavaScript.\n• Back-end development skills using technologies like Node.js, Express, or equivalent.\n• Knowledge of databases, including SQL and NoSQL.\n\nLocation: Remote position based in Europe\n\nIf you are a motivated and experienced Mobile Full-Stack Developer looking to contribute your skills to a dynamic team, we encourage you to apply. We value diversity and inclusion and are committed to creating an environment where everyone feels welcomed and supported.\n\nPlease submit a link to your resume if you possess all the qualifications mentioned.\n\nJob Type: Full-time\n\nPay: $15.00 - $22.00 per hour\n\nExpected hours: 40 per week\n\nEducation:\n• Bachelor's (Preferred)\n\nExperience:\n• React Native: 3 years (Required)\n\nWork Location: Remote",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1708300800,
+      "job_posted_at_datetime_utc": "2024-02-19T00:00:00.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer,+android,+software+engineer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer,+android,+software+engineer&htidocid=iMqeVLtxSfyOGurDAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-07-01T00:00:00.000Z",
+      "job_offer_expiration_timestamp": 1719792000,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 36,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": 15,
+      "job_max_salary": 22,
+      "job_salary_currency": "USD",
+      "job_salary_period": "HOUR",
+      "job_highlights": {
+        "Qualifications": [
+          "(JavaScript, TypeScript, React Framework, Mobile Development, React Native Framework, DBMS)",
+          "We are seeking a talented and experienced Full Stack Mobile Developer with a strong profiency in designing, developing and maintaining high-quality mobile applications for Android and iOS platforms",
+          "Bachelor's degree in Computer Science, related field, or equivalent experience",
+          "3+ years experience with React Native",
+          "Proven track record as a Full-Stack Mobile Developer with hands-on experience in developing successful Android and iOS applications",
+          "Proficiency in Android development using Java/Kotlin and iOS development using Swift",
+          "Experience with cross-platform frameworks such as React Native or Flutter",
+          "Strong front-end development skills with HTML, CSS, and JavaScript",
+          "Back-end development skills using technologies like Node.js, Express, or equivalent",
+          "Knowledge of databases, including SQL and NoSQL"
+        ],
+        "Responsibilities": [
+          "Effective team communication is crucial for incorporating new features",
+          "Additionally, you'll document technical details, participate in code reviews, and focus on producing high-quality code",
+          "Your responsibilities will also encompass the documentation of technical specifications, APIs, and database designs",
+          "By participating in code reviews, you will be nurturing a culture that prioritizes the development of quality code",
+          "Design, develop, and maintain mobile applications for Android and iOS platforms",
+          "Collaborate with cross-functional teams to understand project requirements and translate them into technical specifications",
+          "Implement front-end components using industry-standard technologies such as React Native, Flutter, or native development (Swift for iOS, Kotlin for Android)",
+          "Develop and optimize back-end functionalities to ensure scalability, reliability, and overall system performance",
+          "Conduct thorough testing and debugging to identify and resolve issues, ensuring a seamless user experience",
+          "Stay updated on the latest trends and best practices in mobile development to drive continuous improvement"
+        ],
+        "Benefits": [
+          "Pay: $15.00 - $22.00 per hour",
+          "Expected hours: 40 per week"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "YW3e_kaRGFOJBXbJAAAAAA==",
+      "employer_name": "Barrel",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuTbQhnEiWtQ_GMsCmBErezPt1c9oJTAHPCjM9&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Full-Stack Software Engineer (Apps & Shopify)",
+      "job_apply_link": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-apps-shopify-at-barrel-3756049158",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6879,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-apps-shopify-at-barrel-3756049158",
+          "is_direct": false
+        },
+        {
+          "publisher": "Rise",
+          "apply_link": "https://app.joinrise.co/jobs/barrel-full-stack-software-engineer-(wordpress-and-shopify)-(remote)-rvac",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Barrel is a digital agency that designs, builds, and optimizes e-commerce websites for brands. We work with exciting brands across fashion, beauty, CPG, and home goods. We are a highly collaborative and fully distributed team.\n\nBarrel is seeking a full-stack Shopify Engineer with backend experience to join our remote-first team—you can work from anywhere in the world during US time zones. You will be responsible for partnering with our internal teams and clients to redesign and launch new web and mobile products for our clients.\n\nResponsibilities:\n• Architect and/or implement frontend and backend technical solutions based on the requirements of the project\n• Conduct technical requirements gathering, technical analysis and creation of tech specs (JIRA tickets)\n• Ensure that correct technology processes are being employed and followed on projects\n• Conduct research and assist on scoping and estimating new work\n• Planning features utilizing sprints and juggle simultaneous feature development\n• Consulting and helping clients simplify or optimize their existing business flows where technology is concerned\n\nSkills:\n• Experience with Shopify and its APIs (required)\n• These technologies are mostly required (PHP, Javascript, SQL, PostCSS/SASS)\n• These libraries are mostly required (VueJS, ReactJS, Tailwind)\n• Git / Continuous Deployment Scripting\n• Linux/Mac scripting and command line usage\n• Proactive in raising issues / blockers as soon as they occur\n• Communicates well with both technical and non-technical stakeholders\n\nExperience:\n• 4+ years experience in Shopify front-end development; prior experience working in an agency setting is preferred\n• Expertise with front-end development frameworks and libraries\n• Expert knowledge developing cross platform/browser (iOS, Android, Chrome, Safari, Firefox) for web applications\n• Familiarity with and adherence to web standards and best practices for performance and accessibility (WCAG)\n• Knowledge of SEO best practices\n• Ability to effectively prioritize and execute tasks in a high-pressure environment\n• Strong communication skills (both in person and in writing) while interacting with individuals with a range of technical understanding - responsiveness within 1 day\n• Excellent organizational and time management skills\n\nBarrel is proud to be an equal opportunity employer dedicated to pursuing and hiring a diverse workforce. All qualified applicants will receive consideration for employment without regard to their race, color, culture, ethnicity, sex, gender identity and expression, nation of origin, age, veteran’s status, religion, disability, sexual orientation, appearance, opinions, beliefs and more.",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1699565866,
+      "job_posted_at_datetime_utc": "2023-11-09T21:37:46.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer,+android,+software+engineer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer,+android,+software+engineer&htidocid=YW3e_kaRGFOJBXbJAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-03-27T09:52:52.000Z",
+      "job_offer_expiration_timestamp": 1711533172,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 48,
+        "experience_mentioned": true,
+        "experience_preferred": true
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": true,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": 80000,
+      "job_max_salary": 130000,
+      "job_salary_currency": "USD",
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "Experience with Shopify and its APIs (required)",
+          "These technologies are mostly required (PHP, Javascript, SQL, PostCSS/SASS)",
+          "These libraries are mostly required (VueJS, ReactJS, Tailwind)",
+          "Git / Continuous Deployment Scripting",
+          "Linux/Mac scripting and command line usage",
+          "Communicates well with both technical and non-technical stakeholders",
+          "Expertise with front-end development frameworks and libraries",
+          "Expert knowledge developing cross platform/browser (iOS, Android, Chrome, Safari, Firefox) for web applications",
+          "Familiarity with and adherence to web standards and best practices for performance and accessibility (WCAG)",
+          "Knowledge of SEO best practices",
+          "Ability to effectively prioritize and execute tasks in a high-pressure environment",
+          "Strong communication skills (both in person and in writing) while interacting with individuals with a range of technical understanding - responsiveness within 1 day",
+          "Excellent organizational and time management skills"
+        ],
+        "Responsibilities": [
+          "You will be responsible for partnering with our internal teams and clients to redesign and launch new web and mobile products for our clients",
+          "Architect and/or implement frontend and backend technical solutions based on the requirements of the project",
+          "Conduct technical requirements gathering, technical analysis and creation of tech specs (JIRA tickets)",
+          "Ensure that correct technology processes are being employed and followed on projects",
+          "Conduct research and assist on scoping and estimating new work",
+          "Planning features utilizing sprints and juggle simultaneous feature development",
+          "Consulting and helping clients simplify or optimize their existing business flows where technology is concerned"
+        ]
+      },
+      "job_job_title": "Software engineer",
+      "job_posting_language": "en",
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "v3rAfIBLOtSk7MihAAAAAA==",
+      "employer_name": "10X CORPORATION INC.",
+      "employer_logo": null,
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "Glassdoor",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Full Stack Developer (React Native and PHP Laravel) Mobile App Android/IOS project",
+      "job_apply_link": "https://www.glassdoor.com/job-listing/full-stack-developer-react-native-and-php-laravel-mobile-app-android-ios-project-10x-corporation-inc-JV_KO0,80_KE81,100.htm?jl=1009135533730",
+      "job_apply_is_direct": true,
+      "job_apply_quality_score": 0.6516,
+      "apply_options": [
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/full-stack-developer-react-native-and-php-laravel-mobile-app-android-ios-project-10x-corporation-inc-JV_KO0,80_KE81,100.htm?jl=1009135533730",
+          "is_direct": true
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=3961fc4573031be1",
+          "is_direct": true
+        }
+      ],
+      "job_description": "We have a developed application uploaded to the platforms, we want to improve it, and more importantly, we want to add a monetization module already defined. That is to say, the screens are designed and the scheme is already defined, the implementation is missing.\n\nIf everything goes well, the hired person will stay to work on the following modules or functionalities of the application, apart from monetization, which is the first thing we need.\n\nI need a developer with a lot of experience in :\n• React Native\n• Laravel\n\nWith completed projects that are:\n• Mobile applications for Android and IOS\n• Monetization\n\nWanted:\n• Good understanding of a project already written and developed.\n• Creativity\n• Ability to work alone and in a team\n• Ability to work alone and as part of a team.\n• Estimates for each task assigned to you.\n• Quality in writing code\n• Vision to improve the project, think about the project to scale it.\n• Visibility and transparency of all the work you do.\n• Daily reports of what was worked on, will be worked on and is being worked on.\n\nAttach CV for applications.\n\nTo start the job we will request an interview with the Project Manager, the interview will consist of commenting how is the environment in the app, what we have what we are looking for and how this person can help, if qualified, we will start with the freelancer and will be given some time to look at the project and understand the code, will be assigned a test, this test will be the correction of one or more errors within the project (paid) and will work as if the real work has already begun, but touching much simpler aspects.\n\nThose who are interested in working in a project with a lot of work, many tasks and a great opportunity for growth, go ahead with the applications, you must be able to work under pressure because we aim high, we are a startup taking off with a lot of future and a lot ahead.\n\nJob Type: Full-time\n\nSalary: $25.00 - $50.00 per hour\n\nExpected hours: No less than 35 per week\n\nCompensation package:\n• Hourly pay\n\nExperience level:\n• 5 years\n\nLanguage:\n• ingles (Required)\n• español (Preferred)\n\nWork Location: Remote",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1708387200,
+      "job_posted_at_datetime_utc": "2024-02-20T00:00:00.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer,+android,+software+engineer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer,+android,+software+engineer&htidocid=v3rAfIBLOtSk7MihAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-06-30T00:00:00.000Z",
+      "job_offer_expiration_timestamp": 1719705600,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": null,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": 25,
+      "job_max_salary": 50,
+      "job_salary_currency": "USD",
+      "job_salary_period": "HOUR",
+      "job_highlights": {
+        "Qualifications": [
+          "React Native",
+          "Good understanding of a project already written and developed",
+          "Creativity",
+          "Ability to work alone and as part of a team",
+          "Estimates for each task assigned to you",
+          "Quality in writing code",
+          "Vision to improve the project, think about the project to scale it",
+          "5 years",
+          "ingles (Required)"
+        ],
+        "Responsibilities": [
+          "Mobile applications for Android and IOS",
+          "Daily reports of what was worked on, will be worked on and is being worked on",
+          "Attach CV for applications"
+        ],
+        "Benefits": [
+          "Salary: $25.00 - $50.00 per hour",
+          "Expected hours: No less than 35 per week",
+          "Hourly pay"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "qWz4Bfuz_nohfXNJAAAAAA==",
+      "employer_name": "Corp to Corp",
+      "employer_logo": null,
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "Corp To Corp",
+      "job_employment_type": "CONTRACTOR",
+      "job_title": "Urgent Requirement || Android Developer || Remote",
+      "job_apply_link": "https://corptocorp.org/urgent-requirement-android-developer-remote/",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6506,
+      "apply_options": [
+        {
+          "publisher": "Corp To Corp",
+          "apply_link": "https://corptocorp.org/urgent-requirement-android-developer-remote/",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Hello,\n\nHope you are doing well!!\n\nWe have an urgent requirement for Android Developer, if you are interested, please share the updated resume at– ajay@sprsoftwaresystems.com\n\nJob Title : Android Developer\nLocation : Remote\nDuration : Contract\n\nAt least 15+ years in IT\n\nSkill: React Native, Android/iOS, Swift Language, REST , JSON, CI/CD tools_GiTLab\nPlatform: Vizio, AFTV, Comcast, OTT, tvOS, FireTV\nShould be able to lead a team, please do not submit developer profiles.\n\nBachelor’s degree in Computer Science, Software Engineering, or a related field. Master’s degree is a plus.\nProven experience as a Senior Mobile Software Engineer, with a strong focus on React Native development and expertise in Java, Kotlin, and Swift.",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1686528000,
+      "job_posted_at_datetime_utc": "2023-06-12T00:00:00.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer,+android,+software+engineer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer,+android,+software+engineer&htidocid=qWz4Bfuz_nohfXNJAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-06-12T00:00:00.000Z",
+      "job_offer_expiration_timestamp": 1718150400,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": null,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "At least 15+ years in IT",
+          "Skill: React Native, Android/iOS, Swift Language, REST , JSON, CI/CD tools_GiTLab",
+          "Bachelor’s degree in Computer Science, Software Engineering, or a related field",
+          "Proven experience as a Senior Mobile Software Engineer, with a strong focus on React Native development and expertise in Java, Kotlin, and Swift"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "X2wq-8CxliyBX8pwAAAAAA==",
+      "employer_name": "Upwork",
+      "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+      "employer_website": "http://www.elance.com",
+      "employer_company_type": "Computer Services",
+      "job_publisher": "Upwork",
+      "job_employment_type": "CONTRACTOR",
+      "job_title": "Android/Kotlin Developer (full-stack) - Contract to Hire",
+      "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/Android-Kotlin-Developer-full-stack_~0139b1ed9d5f9f5a57/",
+      "job_apply_is_direct": true,
+      "job_apply_quality_score": 0.7849,
+      "apply_options": [
+        {
+          "publisher": "Upwork",
+          "apply_link": "https://www.upwork.com/freelance-jobs/apply/Android-Kotlin-Developer-full-stack_~0139b1ed9d5f9f5a57/",
+          "is_direct": true
+        }
+      ],
+      "job_description": "• *Looking to hire additional devs**\n\nLooking for an Android/Kotlin Developer to help develop our music application. Our music application is already built and works perfectly. However, we're looking to add a couple more Android developers to our team for regular maintenance and new feature updates.\n• *Kotlin/Github + fixed-price projects**\n\nOur Android application is written in Kotlin. So the understanding of Kotlin is a must, in addition to being proficient in building Android Applications written in Kotlin, updating our Android Repositories in Github, building new APK's (which will need to be signed with our signing key), plus the working knowledge of Github as well. Developer needs to be able to complete task(s) in a timely manner that will be agreed upon and the candidate will provide fixed-price per job.\n• *Test + contract**\n\nDeveloper must also agree to take a Kotlin skills test and sign our contract. This opportunity can turn into ongoing, consistent work.\n• **Interviewing with us: You are interviewing for a job with our company, not with a random person. Therefore, as a company we have requirements that must be met before we can hire you, which will be discussed during the interview process. If you are not the person in your profile (different profile picture, different resume, different information, etc.) or you're hiding the fact that you are dev agency/dev shop, please do not apply here - we don't have time for games, dishonesty and by the end of our interview process this will all be discovered (we are very thorough).***",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1708974816,
+      "job_posted_at_datetime_utc": "2024-02-26T19:13:36.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer,+android,+software+engineer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer,+android,+software+engineer&htidocid=X2wq-8CxliyBX8pwAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": null,
+        "experience_mentioned": false,
+        "experience_preferred": false
+      },
+      "job_required_skills": [
+        "Android App Development",
+        "Kotlin",
+        "Android",
+        "iOS Development",
+        "Swift",
+        "Mobile App Development",
+        "Git",
+        "Ruby on Rails",
+        "Web Development",
+        "API"
+      ],
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": 70,
+      "job_max_salary": 90,
+      "job_salary_currency": "USD",
+      "job_salary_period": "HOUR",
+      "job_highlights": {
+        "Qualifications": [
+          "So the understanding of Kotlin is a must, in addition to being proficient in building Android Applications written in Kotlin, updating our Android Repositories in Github, building new APK's (which will need to be signed with our signing key), plus the working knowledge of Github as well",
+          "Developer needs to be able to complete task(s) in a timely manner that will be agreed upon and the candidate will provide fixed-price per job",
+          "Developer must also agree to take a Kotlin skills test and sign our contract"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4",
+      "job_naics_code": "541511",
+      "job_naics_name": "Custom Computer Programming Services"
+    },
+    {
+      "job_id": "a5QA3JJqbbwx9V73AAAAAA==",
+      "employer_name": "Net2Source Inc.",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVcb8L-vAU7mXNA66R5z22VIgx4Fd14semGNj&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "Dice",
+      "job_employment_type": "CONTRACTOR",
+      "job_title": "Full Stack Developer with Kotlin",
+      "job_apply_link": "https://www.dice.com/job-detail/8d63aa68-4103-48a5-a0fa-6b86739ac30e",
+      "job_apply_is_direct": true,
+      "job_apply_quality_score": 0.678,
+      "apply_options": [
+        {
+          "publisher": "Dice",
+          "apply_link": "https://www.dice.com/job-detail/8d63aa68-4103-48a5-a0fa-6b86739ac30e",
+          "is_direct": true
+        }
+      ],
+      "job_description": "Net2Source Inc. is an award-winning total workforce solutions company recognized by Staffing Industry Analysts for our accelerated growth of 300% in the last 3 years with over 5500+ employees globally, with over 30+ locations in the US and global operations in 32 countries. We believe in providing staffing solutions to address the current talent gap - Right Talent - Right Time - Right Place - Right Price and acting as a Career Coach to our consultants.\n\nIf you are interested, please reply with below detail.\n• Updated resume\n• Visa status\n• Current location\n• Rate expectation\n• Best time for a call\nTitle: Full Stack Developer\nLocation: REMOTE\nDuration:6+Months\nRoles & Responsibilities\nCandidate can be Remote, anywhere in the continental US. Must be willing to work PST or CST\n\nKey skills requirements:\n\nBackend: Kotlin, Java 8, Springboot (very important to have Kotlin and need real experience)\nReactJS\n(Experience with front end technologies like ReactJS is still desired, but less important than earlier.)\n\nAWS\n\nPosition Overview\nClient is seeking a motivated and experienced software engineer to join our Product Delivery platform team. This platform is responsible for providing products and their updates to the customers and we are in the midst of a transformational project. You'll be responsible for building new and enhancing existing APIs and UI experiences.\n\nResponsibilities\n• Design, code, test, debug and document new and existing components to ensure\nthat software meets business, quality and operational needs\n• Build high quality code by developing both unit and integration testing\n• Design and develop RESTful APIs using Microservices architecture using Java\n• Design and develop UI using ReactJS\n• Participate in code reviews to ensure new code conforms to the highest standards\n• Work with the team to troubleshoot code-level problems quickly and efficiently\n• Excellent technical problem-solving skills and aptitude to learn new technologies and methodologies\n• Respond on a rotation basis to escalated incidents after hours or on weekends to ensure 24/7 availability of our platform\n\nMinimum Qualification\n• BS/MS in computer science or related technical field\n• Over 5 years of professional experience developing scalable, distributed applications\n• Strong experience in object-oriented programming with languages like Java 8 and ReactJS\n• Broad experience with the Spring boot framework\n• Experience working with containerization technology like Docker\n• Strong experience with building cloud-based API platforms or backend systems\n\nPreferred Qualifications\n• Strong experience with Amazon Web Services\n\nWhy work with us - At Net2Source, we believe everyone has an opportunity to lead. We see the importance of your perspective and your ability to create value. We want you to fit in with an inclusive culture, focus on work-life fit and well-being, and a supportive, connected environment; but we also want you to stand out with opportunities to have a strategic impact, innovate, and take necessary steps to make your mark. We help clients with new skilling, talent strategy, leadership development, employee experience, transformational change management, and beyond.\n\nEqual Employment Opportunity Statement:\nNet2Source is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion, or sexual orientation. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status, or any other basis as protected by federal, state, or local law.\n\nAwards and Accolades:\n• America's Most Honored Businesses (Top 10%)\n• Awarded by USPAAC for Fastest Growing Business in the US\n• 12th Fastest-Growing Staffing Company in the USA by Staffing Industry Analysts in the US (2020, 2019, 2020)\n• Fastest 50 by NJ Biz (2020, 2019, 2020)\n• INC 5000 Fastest growing for 8 consecutive years in a row (only 1.26% of companies make it to this list).\n• Top 100 by Dallas Business Journal (2020 and 2019)\n• Proven Supplier of the Year by Workforce Logiq (2020 and 2019)\n• 2019 Spirit of Alliance Award by Agile1\n• 2018 Best of the Best Platinum Award by Agile1\n• 2018 TechServe Alliance Excellence Awards Winner\n• 2017 Best of the Best Gold Award by Agile1(Act1 Group)\n\nRegards,\nPraveen | Resource Manager\nCall:-/\nEmail:-\nNet2Source Inc.\n30 Wellington St W, 5th Floor - Suite 504, Toronto, ON M5L 1E2",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1701389035,
+      "job_posted_at_datetime_utc": "2023-12-01T00:03:55.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 37.09024,
+      "job_longitude": -95.71289,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=full+stack+developer,+android,+software+engineer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=full+stack+developer,+android,+software+engineer&htidocid=a5QA3JJqbbwx9V73AAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-04-01T22:06:43.000Z",
+      "job_offer_expiration_timestamp": 1712009203,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 60,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": ["Please refer to job description"],
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": 70,
+      "job_max_salary": 70,
+      "job_salary_currency": "USD",
+      "job_salary_period": "HOUR",
+      "job_highlights": {
+        "Qualifications": [
+          "Must be willing to work PST or CST",
+          "Backend: Kotlin, Java 8, Springboot (very important to have Kotlin and need real experience)",
+          "BS/MS in computer science or related technical field",
+          "Over 5 years of professional experience developing scalable, distributed applications",
+          "Strong experience in object-oriented programming with languages like Java 8 and ReactJS",
+          "Broad experience with the Spring boot framework",
+          "Experience working with containerization technology like Docker",
+          "Strong experience with building cloud-based API platforms or backend systems"
+        ],
+        "Responsibilities": [
+          "Candidate can be Remote, anywhere in the continental US",
+          "Client is seeking a motivated and experienced software engineer to join our Product Delivery platform team",
+          "This platform is responsible for providing products and their updates to the customers and we are in the midst of a transformational project",
+          "You'll be responsible for building new and enhancing existing APIs and UI experiences",
+          "Design, code, test, debug and document new and existing components to ensure",
+          "that software meets business, quality and operational needs",
+          "Build high quality code by developing both unit and integration testing",
+          "Design and develop RESTful APIs using Microservices architecture using Java",
+          "Design and develop UI using ReactJS",
+          "Participate in code reviews to ensure new code conforms to the highest standards",
+          "Work with the team to troubleshoot code-level problems quickly and efficiently",
+          "Respond on a rotation basis to escalated incidents after hours or on weekends to ensure 24/7 availability of our platform"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    }
+  ]
+}

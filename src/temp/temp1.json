@@ -1,0 +1,22 @@
+{
+  "resumeFeedback": {
+    "professionalSummary": [
+      {
+        "Company": "",
+        "status": "",
+        "comments": "",
+        "suggestions": [""]
+      }
+    ],
+    "skillsSection": {
+      "status": "",
+      "comments": "",
+      "suggestions": [""]
+    },
+    "keywords": {
+      "status": "",
+      "comments": "",
+      "suggestions": [""]
+    }
+  }
+}
